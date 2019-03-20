@@ -1,3 +1,4 @@
+# PROBLEM: Find the highest element in given list
 
 # a = input().split()
 # a = ['6','7','9','9','1','2']

@@ -1,3 +1,4 @@
+# PROBLEM: Check if string has duplicate characters
 
 s = 'Milwaakee'
 #s ='abcdefghijklmnopqrstuvwxyz'
