@@ -1,4 +1,5 @@
 # Property
+# Allows Class member to be used as variable
 
 
 # A class without Property getter
